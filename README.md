@@ -50,8 +50,8 @@ ng help
 ### Generating and serving an Angular project via a development server
 
 ```bash
-ng new PROJECT_NAME
-cd PROJECT_NAME
+ng new my-app
+cd my-app
 ng serve
 ```
 Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
